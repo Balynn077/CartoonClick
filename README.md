@@ -1,6 +1,6 @@
 # ClickyGame
 
-<h1>Welcome to CLickyGame! Don't Clicky on the same Character twice! See how many points you can get!</h1>
+<Welcome to CLickyGame! Don't Clicky on the same Character twice! See how many points you can get!
 ![ClickyIMG1](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme1.png)
 <h1>If your guess is correct 1 point is added to your score. You are notified if you have a new high score!</h1>
 ![ClickyIMG2](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme2.png)
