@@ -1,4 +1,4 @@
-# CartoonClickGame
+# Cartoon Click
 Cartoon Click is memory game created with React! Don't Clicky on the same Character twice! See how many points you can get!
 ![ClickyIMG1](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme1.png)
 If your guess is correct, 1 point is added to your score. You are notified if you have a new high score! The characters are shuffled randomly after every click!
