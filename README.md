@@ -7,5 +7,5 @@ If you guess wrong you are notified and your points will be reset!
 ![ClickyIMG3](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme3.png)
 Your high score is saved and compared to the score of your current game with each Clicky!
 ![ClickyIMG4](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme4.png)
-Keepy getting new high scores! I believe in you!
+Keep getting new high scores! I believe in you!
 ![ClickyIMG5](https://github.com/Balynn077/ClickyGame/blob/master/public/images/readme5.png)
